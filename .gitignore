@@ -1,0 +1,12 @@
+*.pyc
+*.log
+*.html
+outputs
+config.json
+config.back.json
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
